@@ -1,9 +1,0 @@
-<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
-	<title>icons8-diagonal-arrow-24</title>
-	<defs>
-		<image  width="18" height="18" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASBAMAAACk4JNkAAAAAXNSR0IB2cksfwAAABtQTFRFAAAA//7+//////39//39//////////////39aYB3OgAAAAl0Uk5TAP8V0tYYDwGT12bSAQAAAFxJREFUeJxjZGAUYAADRiQWGDDpP4CylD/8Y4QKiZyBsJQ/2hxkhArtFmSECm0As0BCDGAWSAjMAguBWWAhEAsiBGJBhIAsqBCQlbyB9wHELRVnd0NdxR65AMICAMPKGRIim0JgAAAAAElFTkSuQmCC"/>
-	</defs>
-	<style>
-	</style>
-	<use id="Background" href="#img1" x="3" y="3"/>
-</svg>
