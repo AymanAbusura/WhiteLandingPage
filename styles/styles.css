@@ -1112,6 +1112,12 @@ main {
 
 /* width: 1024px */
 @media only screen and (width:1024px){
+    .button-container__about_page {
+        position: absolute;
+        left: 70%;
+        top: 68%;
+        z-index: 1;
+    }
     .home__hold {
         gap: 50px!important;
     }
@@ -1125,6 +1131,13 @@ main {
 
 /* width: 768px */
 @media (width: 768px) {
+    .button-container__about_page {
+        position: relative;
+        left: 0;
+        top: 0;
+    }
+    .why_cards_special__about_page { gap: 10px!important; }
+    .faq__column__about_page { display: none; }
     .header { padding: 15px 10px; }
     .desktop-nav, .desktop { display: none; }
     .mobile-menu { 
@@ -1353,6 +1366,13 @@ main {
 
 /* max-width: 768px */
 @media (max-width: 767px) {
+    .button-container__about_page {
+        position: relative;
+        left: 0;
+        top: 0;
+    }
+    .why_cards_special__about_page { gap: 10px!important; }
+    .faq__column__about_page { display: none; }
     .home__text { text-align: center!important; }
     .description__text { max-width: 100%!important; }
     .no-scroll {
